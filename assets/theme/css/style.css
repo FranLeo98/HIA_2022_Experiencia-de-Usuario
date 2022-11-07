@@ -3,6 +3,10 @@ section {
   background-color: #ffffff;
 }
 
+#fondo{
+  background-image: url(https://fondosmil.com/fondo/23216.jpg);
+}
+
 body {
   font-style: normal;
   line-height: 1.5;
